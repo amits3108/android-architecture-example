@@ -1,7 +1,9 @@
-package io.keinix.androidarchitectureexample;
+package io.keinix.androidarchitectureexample.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import io.keinix.androidarchitectureexample.R;
 
 public class MainActivity extends AppCompatActivity {
 
